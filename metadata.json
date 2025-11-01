@@ -1,0 +1,23 @@
+{
+  "dataset_rows": 500,
+  "k_values_tested": [
+    2,
+    3,
+    5
+  ],
+  "l_values_tested": [
+    2,
+    3
+  ],
+  "final_run": {
+    "k": 3,
+    "l": 2
+  },
+  "ncp_k3_l2": 0.7315,
+  "uniqueness_pre": 1.0,
+  "uniqueness_post_k3": 0.008,
+  "ml_accuracy_original": 0.4067,
+  "ml_accuracy_k3_l2": 0.36,
+  "timestamp": "2025-11-01T07:17:56.807324Z",
+  "python_version": "3.10"
+}
